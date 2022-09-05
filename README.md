@@ -17,7 +17,7 @@
 
 ## Description
 
-Nest Prisma API project. In this project I learn how to use nest js with prisma ORM
+Nest Prisma API project. In this project I learn how to use Nest.js with prisma ORM
 
 ## Installation
 
